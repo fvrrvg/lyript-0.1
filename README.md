@@ -2,6 +2,7 @@
 A Bash script makes it easier to get your favourite songs' lyrics.
 
 Made by:Mohamed Farrag 
+
 Email:mohamedfarrag@protonmail.com
 
 ## Dependencies

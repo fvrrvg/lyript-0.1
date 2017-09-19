@@ -1,16 +1,8 @@
 # Lyript
 A Bash script makes it easier to get your favourite songs' lyrics.
 
-Welcome To The :
-
-| | \ \ / /  _ \|_ _|  _ \_   _|
-| |  \ V /| |_) || || |_) || |  
-| |___| | |  _ < | ||  __/ | |  
-|_____|_| |_| \_\___|_|    |_|  
-
-Made by:©Mohamed Farrag 
+Made by:Mohamed Farrag 
 Email:mohamedfarrag@protonmail.com
-
 
 ## Dependencies
  required:w3m

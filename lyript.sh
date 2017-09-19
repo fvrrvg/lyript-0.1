@@ -11,6 +11,7 @@ cat << !
     
 Made by:©Mohamed Farrag 
 !
+
 echo -en '\n'
 echo -n "Enter The Artist Name?"
 read artist

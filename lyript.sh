@@ -12,7 +12,6 @@ cat << !
 Made by:©Mohamed Farrag 
 !
 
-echo '\n'
 echo -n "Enter The Artist Name?"
 read artist
 artist=$(echo "${artist// /}" | tr '[:upper:]' '[:lower:]')

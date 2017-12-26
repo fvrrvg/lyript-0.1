@@ -26,9 +26,11 @@ For [Mageia]:urpmi w3m
 
 2-git clone https://github/mofarrag/Lyript
 
-3-chmod +x lyript.sh
+3-cd Lyript
 
-4- ./lyript.sh
+5-chmod +x lyript.sh
+
+6- ./lyript.sh
 
 
 ENJOY :)

@@ -24,7 +24,7 @@ For [ArchLinux & Manjaro]:sudo pacman -S w3m
 
 For [Mageia]:urpmi w3m
 
-2-git clone https://github/mofarrag/Lyript
+2-git clone https://github/mofarrag/Lyript.git
 
 3-cd Lyript
 
